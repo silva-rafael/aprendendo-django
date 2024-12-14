@@ -1,4 +1,4 @@
-# aprendendo-django
+# Aprendendo-django
 Um repositório para aprendizado de Django. Com as principais configurações e comandos necessários para o aprendizado deste framework.
 
 **1- Comando iniciais**
